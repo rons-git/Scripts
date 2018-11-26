@@ -1,6 +1,6 @@
 #!/bin/bash
 ./upd-src
-cd ~/carnd-extended-kalman-filter-project/build
+cd ~/CarND-Kidnapped-Vehicle-Project-P3/build
 echo cmake
 cmake ..
 echo make

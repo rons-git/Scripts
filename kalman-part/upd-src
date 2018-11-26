@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /mnt/c/users/ron/part-filter-src
+cp *.cpp /home/re0823/CarND-Kidnapped-Vehicle-Project-P3/src
+cp *h /home/re0823/CarND-Kidnapped-Vehicle-Project-P3/src

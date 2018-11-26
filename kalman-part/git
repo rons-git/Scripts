@@ -1,0 +1,4 @@
+cd ~/CarND-Kidnapped-Vehicle-Project-P3
+git add -A
+git commit -m "update from ubuntu"
+git push -f https://rons-git:Tanforan1@github.com/rons-git/CarND-Kidnapped-Vehicle-Project-P3 master

@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /mnt/c/users/ron/part-filter-readme
+cp -R *  /home/re0823/CarND-Kidnapped-Vehicle-Project-P3

@@ -1,5 +1,5 @@
 #!/bin/bash
-./upd-uns-kalman-src
+./upd-src
 cd ~/CarND-Unscented-Kalman-Filter-Project/build
 echo cmake
 cmake ..
