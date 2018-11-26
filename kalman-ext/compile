@@ -1,0 +1,7 @@
+#!/bin/bash
+./upd-ext-kalman-src
+cd ~/carnd-extended-kalman-filter-project/build
+echo cmake
+cmake ..
+echo make
+make

@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /mnt/c/users/ron/kalman-uns-readme
+cp -R *  /home/re0823/CarND-Unscented-Kalman-Filter-Project

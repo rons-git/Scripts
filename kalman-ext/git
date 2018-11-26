@@ -1,0 +1,4 @@
+cd ~/carnd-extended-kalman-filter-project
+git add -A
+git commit -m "update from ubuntu"
+git push -f https://sdc4nubes:fuckugithub1@github.com/sdc4nubes/CarND-Extended-Kalman-Filter-P1 master

@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /mnt/c/users/ron/kalman-uns-src
+cp *.cpp /home/re0823/CarND-Unscented-Kalman-Filter-Project/src
+cp *h /home/re0823/CarND-Unscented-Kalman-Filter-Project/src

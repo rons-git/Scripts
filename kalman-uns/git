@@ -1,0 +1,4 @@
+cd ~/CarND-Unscented-Kalman-Filter-Project
+git add -A
+git commit -m "update from ubuntu"
+git push -f https://sdc4nubes:fuckugithub1@github.com/sdc4nubes/CarND-Unscented-Kalman-Filter-P2 master

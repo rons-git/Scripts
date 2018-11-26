@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /mnt/c/users/ron/kalman-ext-src
+cp *.cpp /home/re0823/carnd-extended-kalman-filter-project/src

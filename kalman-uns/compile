@@ -1,0 +1,7 @@
+#!/bin/bash
+./upd-uns-kalman-src
+cd ~/CarND-Unscented-Kalman-Filter-Project/build
+echo cmake
+cmake ..
+echo make
+make
